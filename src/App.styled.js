@@ -62,7 +62,7 @@ export const ContentBlock = styled.div`
   @media (max-width: 1280px) {
     width: 100vw;
     height: auto;
-    padding: 35px;
+  padding: 20px 35px 35px 35px;
      justify-content: center;
   }
 `;
