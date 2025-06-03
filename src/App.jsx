@@ -11,33 +11,9 @@ function App() {
   const socialLinks = [
     { 
       name: 'Telegram', 
-      url: 'https://t.me/+imRXriRwNvVjYzli',
+      url: 'https://t.me/+71ai-YIt9bYxNzAy',
       icon: tgIcon,
       bgColor: 'rgba(0, 119, 255, 0.3)',
-    },
-    { 
-      name: 'Instagram', 
-      url: 'https://www.instagram.com/artur.kupetman?igsh=Z3dpYzZucHpkc2cy&utm_source=qr',
-      icon: igIcon,
-      bgColor: 'rgba(255, 0, 161, 0.3)'
-    },
-    { 
-      name: 'Twitch', 
-      url: 'https://www.twitch.tv/arturkupetman',
-      icon: twIcon,
-      bgColor: 'rgba(128, 0, 255, 0.3)'
-    },
-    { 
-      name: 'TikTok', 
-      url: 'https://www.tiktok.com/@artur.kupetman?_t=ZN-8wjP3nnpIHO&_r=1',
-      icon: tikIcon,
-      bgColor: 'rgba(217, 0, 255, 0.3)'
-    },
-    { 
-      name: 'YouTube', 
-      url: 'https://youtube.com/@atrurkupetman?si=9gTYuhNCvseptVXG',
-      icon: youtubeIcon,
-      bgColor: 'rgba(255, 0, 4, 0.3)'
     },
   ];
 
